@@ -3,6 +3,7 @@ package com.ait.tdd.mavenprojecttdd;
 /**
  * Hello world!
  build1
+ build2
  *
  */
 public class PasswordValidator 
